@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkidLeaks", "SkidLeaks\SkidLeaks.csproj", "{091BDFF1-F955-4265-B3A3-3FA8F3E58E63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{091BDFF1-F955-4265-B3A3-3FA8F3E58E63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{091BDFF1-F955-4265-B3A3-3FA8F3E58E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{091BDFF1-F955-4265-B3A3-3FA8F3E58E63}.Debug|x64.ActiveCfg = Debug|x64
+		{091BDFF1-F955-4265-B3A3-3FA8F3E58E63}.Debug|x64.Build.0 = Debug|x64
+		{091BDFF1-F955-4265-B3A3-3FA8F3E58E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{091BDFF1-F955-4265-B3A3-3FA8F3E58E63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{091BDFF1-F955-4265-B3A3-3FA8F3E58E63}.Release|x64.ActiveCfg = Release|x64
+		{091BDFF1-F955-4265-B3A3-3FA8F3E58E63}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA5E1AD8-0D87-4931-9717-3DADB6EA0A30}
+	EndGlobalSection
+EndGlobal
